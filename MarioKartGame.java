@@ -1,4 +1,14 @@
-public class MarioKartGame {
+// MarioKartGame.java
+// Programmer: Gigi Li
+// Course:  CS 212, Mr. John
+// Due Date: 2/8/23
+// In-Class Assignment: Mario Kart Game
+// Problem Statement: Create a program for a Mario Kart Game Pt2
+// Inputs: none
+// Output: player's name, character's name, speed
+// Credits: none
+
+public class MarioKartGame { //Create Mario Kart Class
     // Create main method for 2 characters
     public static void main(String[] args) {
         // Princess Peach Object

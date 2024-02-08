@@ -3,13 +3,13 @@
 // Course:  CS 212, Mr. John
 // Due Date: 2/8/23
 // In-Class Assignment: Mario Kart Game
-// Problem Statement: Create a program for a Mario Kart Game
+// Problem Statement: Create a program for a Mario Kart Game Pt1
 // Inputs: none
 // Output: player's name, character's name, speed
 // Credits: none
 
 
-class MarioKartPlayer {
+class MarioKartPlayer { //Create Mario Kart Class
     // Data fields
     private String playerName;
     String character;
