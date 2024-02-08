@@ -1,1 +1,17 @@
-THINK before you code...
+Attributes: playerName (String)
+character (String)(e.g., Mario, Luigi)
+speed (int) current spd
+
+
+methods:
+A constructor to initialize the player with a name, character, and starting speed.
+A boost method that simulates boosting, increasing the player's speed.
+A displayInfo method to display the player's information (name, character, speed).
+
+
+Create a Java class called MarioKartGame
+
+Instantiate two MarioKartPlayer objects with different names, characters, and starting speeds.
+Display the information of both players.
+Simulate a boost action for each player.
+Display the updated information of both players after the boost.
