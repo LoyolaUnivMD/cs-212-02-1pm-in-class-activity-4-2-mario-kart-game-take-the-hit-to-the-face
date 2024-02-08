@@ -1,1 +1,24 @@
+Testcase 1:
+    (input)
+    playerName = Debbie
+    character = Princess Peach
+    speed = 3
+
+    (output)
+    Hi Debbie, you will be playing Princess Peach. Your current speed is 3.
+    We have boosted Princess Peach's speed!
+    Princess Peach now has 4 speed.
+
+Testcase 2:
+    (input)
+    playerName = Vanessa
+    character = Luigi
+    speed = 4
+
+    (output)
+    Hi Vanessa, you will be playing Luigi. Your current speed is 4.
+    We have boosted Luigi's speed!
+    Luigi now has 5 speed.
+
+
 
