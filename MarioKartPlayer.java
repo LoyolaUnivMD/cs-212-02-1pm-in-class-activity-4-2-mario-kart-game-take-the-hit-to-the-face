@@ -9,7 +9,7 @@
 // Credits: none
 
 
-class MarioKartPlayer { //Create Mario Kart Class
+public class MarioKartPlayer { //Create Mario Kart Class
     // Data fields
     private String playerName;
     String character;
